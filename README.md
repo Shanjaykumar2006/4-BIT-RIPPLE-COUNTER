@@ -1,12 +1,12 @@
 # 4-BIT-RIPPLE-COUNTER
 
-Developed by: ABISHEIK PRIYAN V 
+Developed by: shanjay kumar
 
 
 
 
 
-RegisterNumber:212224230005
+RegisterNumber:21224230245
 
 **AIM:**
 
